@@ -1,0 +1,1 @@
+gsap.to('#gameOver', {y: 175, duration: 0.5, repeat: -1, yoyo: true, yoyoEase: 'power2'})
